@@ -59,7 +59,7 @@ from text_fit_draw import draw_text_auto
 from image_fit_paste import paste_image_auto
 
 i = -1
-value_1 = -1
+value_1 = -1 #额 保存上张表情用的  刚开始的想法是随机表情 但和上张表情不重复
 expression = None
 
 # 角色配置字典
